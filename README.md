@@ -1,1 +1,1 @@
-#Repositiry for Multi-SLAM Project
+#Repository for Multi-SLAM Project
